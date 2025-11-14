@@ -63,7 +63,7 @@ This project is licensed under the **Apache License 2.0** 🚀 – see the [LICE
 
 ## 📬 Contact
 
-Created by **[Yash Raj]** 💻  
-GitHub: [(https://github.com/Yashraj608)]
+Created by **Yash Raj** 💻  
+GitHub:(https://github.com/Yashraj608)
 
 Made with ❤️ in C++
